@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lista</string>
+    <string name="todo">Afazeres</string>
+    <string name="title">Título</string>
+    <string name="date">Data</string>
+    <string name="hour">Hora</string>
+    <string name="cancel">Cancelar</string>
+    <string name="create">Criar</string>
+    <string name="new_task">Nova Tarefa</string>
+    <string name="passear_com_o_gato">Passear com o gato</string>
+    <string name="label_edit">Editar</string>
+    <string name="label_delete">Delete</string>
+    <string name="you_dont">Você ainda não programou nenhum afazer!</string>
+</resources>
